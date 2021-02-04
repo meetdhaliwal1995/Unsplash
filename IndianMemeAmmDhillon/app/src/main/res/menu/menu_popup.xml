@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/memu_1"
+        android:title="App Detail"/>
+    <item android:id="@+id/menu_2"
+        android:title="All Channels"/>
+    <item android:id="@+id/menu_3"
+        android:title="User Profile"/>
+    <item android:id="@+id/menu_4"
+        android:title="Logout"/>
+
+</menu>
